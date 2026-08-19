@@ -186,7 +186,7 @@
 }
 
 /* Mobile */
-@media(max-width: 1115px){
+@media(max-width: 450px){
     #container {
         flex-direction: column;
     }

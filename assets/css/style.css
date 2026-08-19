@@ -186,7 +186,7 @@
 }
 
 /* Mobile */
-@media(max-width: 450px){
+@media(max-width: 1115px){
     #container {
         flex-direction: column;
     }
@@ -231,6 +231,4 @@
     .skills-box i{
         font-size: 40px;
     }
-
-
 }
